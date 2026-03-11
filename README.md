@@ -255,15 +255,20 @@ Possible extensions of this analysis include:
 
 ---
 
-# 👤 Author
+## 👤 Author
 
 **Sayony Chakraborty**
 
-B.Sc. Data Science
-Techno India University
+Data Science | Data Analytics | Machine Learning
 
-🔗 LinkedIn
-linkedin.com/in/sayonychakraborty
+🔗 GitHub  
+https://github.com/sayonyyy  
+
+🔗 LinkedIn  
+https://linkedin.com/in/sayonychakraborty  
+
+📧 Email  
+sayonychakraborty@gmail.com
 
 ---
 
