@@ -8,7 +8,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![SQL](https://img.shields.io/badge/SQL-MySQL-orange)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-pink)
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-teal)
