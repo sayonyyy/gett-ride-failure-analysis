@@ -183,6 +183,31 @@ Certain geographic zones experience **significantly higher ride failure rates**,
 
 ---
 
+# 🔎 Key Analyses
+
+## 9️⃣ Peak-Hour Driver Supply Simulation
+
+To estimate the operational impact of improving driver availability, a simulation was performed for the **8 AM peak failure window**, the hour with the highest ride failure count.
+
+### Method
+
+The simulation:
+
+* Identified **client cancellations where no driver was assigned**
+* Focused on the **8 AM demand spike**
+* Simulated a **10% increase in driver supply**
+* Assumed additional drivers could convert a portion of unassigned requests into matched rides
+
+### Result
+
+The simulation showed that a **10% increase in driver supply during the 8 AM peak could reduce cancellations by approximately 10%**, preventing around **150 ride cancellations** during that hour.
+
+### Insight
+
+Even small increases in driver availability during demand spikes can significantly reduce ride failures and improve marketplace efficiency.
+
+---
+
 # 📊 Key Findings
 
 The primary cause of ride failures on the Gett platform is:
@@ -192,9 +217,16 @@ The primary cause of ride failures on the Gett platform is:
 Key contributing factors include:
 
 * Driver supply shortages during peak hours
-* High demand spikes
-* Slow driver assignment
+* Demand spikes during **8 AM and 9–11 PM**
+* Slow driver assignment during high-demand periods
 * Geographic imbalance in driver distribution
+
+A simulation of operational improvements showed that:
+
+* A **10% increase in driver supply during the 8 AM peak could reduce ride cancellations by ~10%**
+* This could prevent **~150 failed rides during the peak hour**, demonstrating the effectiveness of targeted driver incentives or dispatch improvements.
+
+These results highlight that **small supply-side adjustments during demand spikes can meaningfully improve ride completion rates**.
 
 ---
 
@@ -202,11 +234,13 @@ Key contributing factors include:
 
 Based on the analysis, the platform could reduce ride failures by:
 
-1. **Increasing driver incentives during peak hours**
-2. **Improving driver dispatch algorithms**
+1. **Increasing driver incentives during peak demand hours (8 AM, 9–11 PM)**
+2. **Improving driver dispatch algorithms for faster matching**
 3. **Repositioning drivers toward high-demand zones**
-4. **Reducing driver assignment latency**
+4. **Reducing driver assignment latency to under 1–2 minutes**
 5. **Using surge pricing or bonuses in high-demand areas**
+
+Simulation results suggest that even **modest increases in driver availability can significantly reduce cancellations during peak hours**.
 
 ---
 
@@ -271,4 +305,3 @@ https://linkedin.com/in/sayonychakraborty
 sayonychakraborty@gmail.com
 
 ---
-
